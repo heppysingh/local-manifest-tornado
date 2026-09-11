@@ -30,5 +30,5 @@
     <project path="hardware/mediatek"
              name="LineageOS/android_hardware_mediatek"
              remote="github"
-             revision="lineage-23.2" />
+             revision="lineage-24.0" />
 </manifest>
