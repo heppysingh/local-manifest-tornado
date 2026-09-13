@@ -47,5 +47,9 @@
              remote="gh"
              revision="test"
              clone-depth="1" />
+    <project path="device/mediatek/sepolicy_vndr"
+                 name="LineageOS/android_device_mediatek_sepolicy_vndr"
+                 remote="gh"
+                 revision="lineage-24.0" />
     
 </manifest>
