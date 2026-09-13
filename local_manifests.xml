@@ -35,16 +35,16 @@
       <!-- Vendor -->
 
     <project path="vendor/mediatek/ims"
-             name="android_vendor_mediatek_ims"
-             remote="heppysingh"
+             name="heppysingh/android_vendor_mediatek_ims"
+             remote="gh"
              revision="android-16-qpr2"
              clone-depth="1" />
 
     <!-- Extras -->
 
     <project path="packages/apps/ViPER4AndroidFX"
-             name="packages_apps_ViPER4AndroidFX"
-             remote="heppysingh"
+             name="heppysingh/packages_apps_ViPER4AndroidFX"
+             remote="gh"
              revision="test"
              clone-depth="1" />
     
