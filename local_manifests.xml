@@ -21,7 +21,7 @@
     <project path="vendor/xiaomi/air"
              name="android_vendor_xiaomi_air"
              remote="heppysingh"
-             revision="lineage-24.0"
+             revision="lineage-23.2"
              clone-depth="1" />
 
     <project path="device/xiaomi/air-kernel"
