@@ -4,8 +4,8 @@
 
     <!-- Fetching sources -->
 
-    <remote name="mizdrake7"
-            fetch="https://github.com/mt6835-devs/" />
+    <remote name="heppysingh"
+            fetch="https://github.com/heppysingh/" />
 
     <remote name="lineage"
             fetch="https://github.com/LineageOS/" />
@@ -13,20 +13,20 @@
     <!-- Device trees -->
 
     <project path="device/xiaomi/air"
-             name="android_device_xiaomi_air"
-             remote="mizdrake7"
+             name="android_device_xiaomi_air-bak"
+             remote="heppysingh"
              revision="lineage-24.0"
              clone-depth="1" />
 
     <project path="vendor/xiaomi/air"
              name="android_vendor_xiaomi_air"
-             remote="mizdrake7"
+             remote="heppysingh"
              revision="lineage-24.0"
              clone-depth="1" />
 
     <project path="device/xiaomi/air-kernel"
              name="android_device_xiaomi_air-kernel"
-             remote="mizdrake7"
+             remote="heppysingh"
              revision="lineage-23.2"
              clone-depth="1" />
 
@@ -40,7 +40,7 @@
 
     <project path="hardware/mediatek"
              name="android_hardware_mediatek"
-             remote="mizdrake7"
+             remote="heppysingh"
              revision="lineage-24.0"
              clone-depth="1" />
 
@@ -54,7 +54,7 @@
 
     <project path="vendor/mediatek/ims"
              name="android_vendor_mediatek_ims"
-             remote="mizdrake7"
+             remote="heppysingh"
              revision="android-16-qpr2"
              clone-depth="1" />
 
@@ -62,7 +62,7 @@
 
     <project path="packages/apps/ViPER4AndroidFX"
              name="packages_apps_ViPER4AndroidFX"
-             remote="mizdrake7"
+             remote="heppysingh"
              revision="test"
              clone-depth="1"
         />
