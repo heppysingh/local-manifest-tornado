@@ -41,13 +41,13 @@
     <project path="hardware/mediatek"
              name="android_hardware_mediatek"
              remote="heppysingh"
-             revision="lineage-24.0"
+             revision="lineage-23.2"
              clone-depth="1" />
 
     <project path="device/mediatek/sepolicy_vndr"
              name="android_device_mediatek_sepolicy_vndr"
              remote="lineage"
-             revision="lineage-24.0"
+             revision="lineage-23.2"
              clone-depth="1" />
 
     <!-- Vendor -->
