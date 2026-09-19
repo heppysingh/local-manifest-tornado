@@ -13,9 +13,9 @@
     <!-- Device trees -->
 
     <project path="device/xiaomi/air"
-             name="android_device_xiaomi_air-bak"
+             name="android_device_xiaomi_air"
              remote="heppysingh"
-             revision="lineage-24.0"
+             revision="lineage-23.2"
              clone-depth="1" />
 
     <project path="vendor/xiaomi/air"
